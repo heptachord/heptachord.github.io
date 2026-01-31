@@ -1,4 +1,4 @@
-site_name: My Docs
-site_url: https://heptachord.github.io
+site_name: My Docs 2
+site_url: https://heptachord.github.io/
 theme:
   name: material
