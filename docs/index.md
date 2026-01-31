@@ -1,4 +1,4 @@
-# Welcome to MkDocs 3
+# Welcome to MkDocs 5
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
